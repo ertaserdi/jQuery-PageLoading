@@ -1,6 +1,10 @@
 # jQuery-PageLoading
 Sayfa açılışlarına process desteği olan bir loading bar.
 
+### Demo
+
+![alt tag](http://i60.tinypic.com/154xf8n.png)
+
 
 ### Example
 

@@ -1,0 +1,62 @@
+/**
+ * Created by ertaserdi on 05.07.2015.
+ *
+ * * Versiyon: 1.0
+ *
+ * Contact for support. / Katkı sağlamak için iletişime geçebilirsiniz.
+ * Email: ertaserdi@gmail.com
+ * Download: https://github.com/ertaserdi/jQuery-PageLoading
+ *
+ * Kullandığınız için teşekkürler... / Thank you for using...
+ *
+ * LICENSE: https://github.com/ertaserdi/jQuery-PageLoading/blob/master/LICENSE
+ */
+ 
+.pageLoadingid14{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(245, 245, 245, 0.90);
+    height: 100%;
+    width: 100%;
+    visibility: visible;
+    z-index: 99999997;
+}
+
+
+.pageLoadingid11{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #dfe8ea;
+    height: 5px;
+    width: 100%;
+    visibility: visible;
+    z-index: 99999998;
+}
+
+.pageLoadingid13{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #79c4df;
+    height: 5px;
+    width: 10%;
+    visibility: visible;
+    box-shadow: 0 0 10px #75b5df;
+    z-index: 99999999;
+}
+
+.pageLoadingid12{
+    position: fixed;
+    top: 50px;
+    right: 2%;
+    text-shadow: 0 0 20px #fff;
+    color: #333;
+    font-size: 16px;
+    font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+    padding: 5px;
+    background-color: #FFFFFF;
+    visibility: visible;
+    z-index: 99999999;
+}

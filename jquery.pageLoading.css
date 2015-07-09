@@ -1,7 +1,7 @@
 /**
  * Created by ertaserdi on 05.07.2015.
  *
- * * Versiyon: 1.0
+ * * Versiyon: 1.0.1
  *
  * Contact for support. / Katkı sağlamak için iletişime geçebilirsiniz.
  * Email: ertaserdi@gmail.com
@@ -11,38 +11,32 @@
  *
  * LICENSE: https://github.com/ertaserdi/jQuery-PageLoading/blob/master/LICENSE
  */
- 
-.pageLoadingid14{
+ .pageLoadingid14,.pageLoadingid11,.pageLoadingid13{
     position: fixed;
     top: 0;
     left: 0;
-    background-color: rgba(245, 245, 245, 0.90);
-    height: 100%;
-    width: 100%;
     visibility: visible;
+}
+
+.pageLoadingid14{
+    background-color: rgba(245, 245, 245, 0.90);
+    width: 100%;
+    height: 100%;
     z-index: 99999997;
 }
 
 
 .pageLoadingid11{
-    position: fixed;
-    top: 0;
-    left: 0;
     background-color: #dfe8ea;
-    height: 5px;
     width: 100%;
-    visibility: visible;
+    height: 5px;
     z-index: 99999998;
 }
 
 .pageLoadingid13{
-    position: fixed;
-    top: 0;
-    left: 0;
     background-color: #79c4df;
     height: 5px;
     width: 10%;
-    visibility: visible;
     box-shadow: 0 0 10px #75b5df;
     z-index: 99999999;
 }
